@@ -1,3 +1,5 @@
+<img align="right" src="https://media.tenor.com/3OnwqAIT5lcAAAAi/subaru-duck-dance-smooth.gif" width="200" height="200" border="0" />
+
 ## Hello World..eu sou a Ana Luiza
 Obtendo conhecimento na programação e tecnologia, estou aberta a novas propostas e desafios
 
