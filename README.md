@@ -1,6 +1,5 @@
 ## Hello World..eu sou a Ana Luiza
-obtendo conhecimento na programação e tecnologia!!
-<p align="left">Estou aberta a novas propostas e desafios!</p>
+Obtendo conhecimento na programação e tecnologia!estou aberta a novas propostas e desafios
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
