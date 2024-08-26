@@ -1,6 +1,6 @@
 <img align="right" src="https://media.tenor.com/3OnwqAIT5lcAAAAi/subaru-duck-dance-smooth.gif" width="200" height="200" border="0" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+World!+%F0%9F%96%A5;Eu+sou+a+Ana+Luiza)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+World!+%F0%9F%96%A5;Bem+Vindos+Ao+Meu+GitHub)](https://git.io/typing-svg)
 <p align="left">Sou esudante do Curso Técnico Integrado(Educação Profissional Pública do Paraná)</p>
 <p align="left">Completando quase 3 anos de cursação e cada vez elevando mais conhecimento na programação e tecnologia.</p> 
 
