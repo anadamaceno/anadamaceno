@@ -11,7 +11,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Contato
-[![EMAIL](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=protonmail&logoColor=white)](anadamaceno89@gmail.com)
+[![EMAIL](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:anadamaceno89@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-a12ba7306/)
 
 ### Estatísticas
