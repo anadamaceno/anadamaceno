@@ -14,14 +14,9 @@
 
 ##
 
-## Contato
-[![EMAIL](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:anadamaceno89@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-a12ba7306/)
-
 ### Estatísticas
 
 <div>
-  <a href="https://github.com/MayconPadilha/MayconPadilha">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=anadamaceno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadamaceno&layout=compact&langs_count=7&theme=dark"/>
 </div>
